@@ -1,0 +1,14 @@
+Introduction-Data Preperation and Transformation
+Some work had to be done before the visualizations were created. The count of trips from the start station could not be added to the count of trips by end station in Tableau directly, so Pandas had to be used by using for value counting and adding both columns.
+Distance between stations had to be done in Excel. A new column was created and distance calculated between each start and end station longitude and latitude pair. 
+
+Analysis
+Phenomenon #1- Popular stations are centrally located in downtown core
+
+The number of trips from and to each stations is the most roughly in and around the downtown core, with most notably the Grove Street Path station having the very most trips from all the other stations. The reasons being because this serves as a major transportation hub to Manhattan, New York by providing 24 hour trains, and for the rest of Jersey City, and is home to trendy restaurents, bars, and shops as well (Washburn, M 2005, 'Where to Go on Jersey City's Grove Street', The New York Times, 17 Sept. 2005, accessed 14 July 2020, <https://www.nytimes.com/interactive/2015/09/17/travel/restaurants-shopping-jersey-city.html>, so it would attract a lot of vistors. Also, there is a reasonable amount of housing units there, so Jersey City residents would contribute to the bike usage also. Since vistors from New York and residents alike would be converging on this area due to it's easy transit to NYC , its trendy area, and number of houses, it makes sense that many people would be using its bikes the most. 
+
+As for the rest of the stations around the downtown area, they are also home to many tourist attractions (i.e. Hamilton Park) and have a large amount residents due to the number of housing units. It's also worthy to note, that they are clustered close to each other, which encourage more use of the stations. The lesser popular stations are located outside the core and are probably this way due to having less residents, less popular tourist atractions and the stations being more spread out which discourages their use
+
+Phenomen #2- Longer trips taken from stations outside downtown core
+
+The trip durations are highest outside the core area. As we go more into the core, the trip lengths get shorter. This could be due to the fact that the stations are more spread out from one another, thus leading to longer trips as riders will need to bike longer to get to the next station. As we go in more, the durations get shorter and shorter, due to being more access of stations. 
