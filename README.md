@@ -21,7 +21,7 @@ The totalstationcount.csv and JC-201912-citibike-tripdata.xlsx were merged on th
 
 ![Story 1](https://github.com/nabilq/CitibikeTableau/blob/master/Capture3.PNG)
 
-2nd story created horizontal bar charts for for trip duration and distance side-by-side and uncovered how longer trips were taken by stations further out from the core which also had less stations clustered. It was sorted using trip durations and trip durations plotted on map using longitude and latitude measures. 
+2nd story created horizontal bar charts for trip duration and distance side-by-side and uncovered how longer trips were taken by stations further out from the core which also had less stations clustered. It was sorted using trip durations and trip durations plotted on map using longitude and latitude measures. Only the top 10 and bottom 10 in duration were shown and coloured appropriately. 
 
 ![Story 2](https://github.com/nabilq/CitibikeTableau/blob/master/Capture1.PNG)
 ![Story 2](https://github.com/nabilq/CitibikeTableau/blob/master/Capture2.PNG)
