@@ -15,5 +15,14 @@ Works is done in count.ipynb file. Was unable to add trips taken from and to eac
 
 
 ## Data Visualizations:  
-Total of 8 visualizations were created for 2 stories. 1st story was discovering how more popular stations were located downtown and around more stations, compared to the ones on city edges which had less trips:
+The totalstationcount.csv and JC-201912-citibike-tripdata.xlsx were merged on the station ids in Tableau and a total of 8 visualizations were created for 2 stories.  
+
+1st story discovered how more popular stations were located downtown and around more stations, compared to the ones on city edges which had less trips. Horizontal bar charts were created, counting number of trips by start station, by end station and then finally being added as a total count to determine their overall popularity. These were plotted on a map:
+
+![Story 1](https://github.com/nabilq/CitibikeTableau/blob/master/Capture3.PNG)
+
+2nd story created horizontal bar charts for for trip duration and distance side-by-side and uncovered how longer trips were taken by stations further out from the core which also had less stations clustered. It was sorted using trip durations and trip durations plotted on map using longitude and latitude measures. 
+
+![Story 2](https://github.com/nabilq/CitibikeTableau/blob/master/Capture1.PNG)
+![Story 2](https://github.com/nabilq/CitibikeTableau/blob/master/Capture2.PNG)
 
